@@ -93,7 +93,6 @@ void checkBribe(int line[], int size) {
 
 }
 
-
 int main() {
     int maxArrayLength = 10;
 	int lineChooser;
